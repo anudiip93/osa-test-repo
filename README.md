@@ -1,5 +1,7 @@
 # 🎉 osa-test-repo - Easy Setup for Your Software Projects
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/anudiip93-osa-test-repo)
+
 ## 🚀 Getting Started
 
 Welcome to the **osa-test-repo**! This project provides a simple foundation for your software development efforts. It includes tools for version control and dependency management, allowing you to focus on coding without unnecessary complications.
